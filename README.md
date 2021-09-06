@@ -1,4 +1,4 @@
-## Welcome to GitHub Pages
+# READING NOTES REPO
 
 You can use the [editor on GitHub](https://github.com/mhmadwrekat/reading-notes/edit/main/README.md) to maintain and preview the content for your website in Markdown files.
 
