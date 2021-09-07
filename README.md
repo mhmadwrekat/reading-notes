@@ -24,7 +24,7 @@
 |Introduction to React and Components|[class-01](https://mhmadwrekat.github.io/reading-notes/class-01)|
 |State and Props|[class-02](https://mhmadwrekat.github.io/reading-notes/class-02)|
 |Passing Functions as Props|[class-03](https://mhmadwrekat.github.io/reading-notes/class-03)|
-|..........|[class-04](https://mhmadwrekat.github.io/reading-notes)|
+|React and Forms|[class-04](https://mhmadwrekat.github.io/reading-notes/class-04)|
 |..........|[class-05](https://mhmadwrekat.github.io/reading-notes)|
 |..........|[class-06](https://mhmadwrekat.github.io/reading-notes)|
 |..........|[class-07](https://mhmadwrekat.github.io/reading-notes)|
