@@ -26,7 +26,7 @@
 |Passing Functions as Props|[class-03](https://mhmadwrekat.github.io/reading-notes/class-03)|
 |React and Forms|[class-04](https://mhmadwrekat.github.io/reading-notes/class-04)|
 |Putting it all together|[class-05](https://mhmadwrekat.github.io/reading-notes/class-05)|
-|..........|[class-06](https://mhmadwrekat.github.io/reading-notes)|
+|NODE.JS|[class-06](https://mhmadwrekat.github.io/reading-notes/class-06)|
 |..........|[class-07](https://mhmadwrekat.github.io/reading-notes)|
 |..........|[class-08](https://mhmadwrekat.github.io/reading-notes)|
 |..........|[class-09](https://mhmadwrekat.github.io/reading-notes)|
