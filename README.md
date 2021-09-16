@@ -31,11 +31,10 @@
 |APIs|[class-08](https://mhmadwrekat.github.io/reading-notes/class-08)|
 |FUNCTIONAL PROGRAMMING|[class-09](https://mhmadwrekat.github.io/reading-notes/class-09)|
 |In memory storage|[class-10](https://mhmadwrekat.github.io/reading-notes/class-10)|
-|..........|[class-11](https://mhmadwrekat.github.io/reading-notes/class-11)|
-|..........|[class-12](https://mhmadwrekat.github.io/reading-notes/class-12)|
-|..........|[class-13](https://mhmadwrekat.github.io/reading-notes/class-13)|
-|..........|[class-14](https://mhmadwrekat.github.io/reading-notes/class-14)|
-|..........|[class-15](https://mhmadwrekat.github.io/reading-notes/class-15)|
+|Mongo and Mongoose|[class-11](https://mhmadwrekat.github.io/reading-notes/class-11)|
+|CRUD|[class-12](https://mhmadwrekat.github.io/reading-notes/class-12)|
+|Diversity & Inclusion in the Tech Industry|[class-13](https://mhmadwrekat.github.io/reading-notes/class-13)|
+|Authentication|[class-14](https://mhmadwrekat.github.io/reading-notes/class-14)|
 
 ---
 ## **Code 201 - Foundations of Software Development**
