@@ -12,6 +12,8 @@
 
 ![HTML5](https://clementbuchanan.github.io/reading-notes/images/html5.jpg)
 
+
+
 ---
 ### What we really want ?
 * a lot of storage space
