@@ -21,7 +21,7 @@
 
 |name of subject      |links                     |
 |---------------------|--------------------------|
-|-------------|[read-01](https://mhmadwrekat.github.io/reading-notes/class-01)|
+|-------------|[read-01](https://mhmadwrekat.github.io/reading-notes/read-01)|
 |-------------|[read-02](https://mhmadwrekat.github.io/reading-notes/class-02)|
 |-------------|[read-03](https://mhmadwrekat.github.io/reading-notes/class-03)|
 |-------------|[read-04](https://mhmadwrekat.github.io/reading-notes/class-04)|
