@@ -1,4 +1,4 @@
-# Mongo and Mongoose
+# Big O & Python
 
 > **Look to Table For easy understanding of the content and access to the desired (in order) :**
 
@@ -86,9 +86,10 @@ All values in Python are objects (more about that later). Every value has a defi
 *Because names are not typed, they can be assigned new values with a different type than their old value :*
 
 > x = 1
+
 > x = "hello"     # This is fine.
 
-#### Python has a rich set of built-in types:
+### ***Python has a rich set of built-in types :***
 
 * Numbers, including unlimited precision integers, double-precision floats, and complex numbers.
 
