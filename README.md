@@ -81,19 +81,19 @@
 |name of subject      |links                     |
 |---------------------|--------------------------|
 |Big O & Python|[read-01](https://mhmadwrekat.github.io/reading-notes/Code 401/read-01)|
-|Testing and Modules|[read-02](https://mhmadwrekat.github.io/reading-notes/Code 401/class-02)|
-|-------------|[read-03](https://mhmadwrekat.github.io/reading-notes/Code 401/class-03)|
-|-------------|[read-04](https://mhmadwrekat.github.io/reading-notes/Code 401/class-04)|
-|-------------|[read-05](https://mhmadwrekat.github.io/reading-notes/Code 401/class-05)|
-|-------------|[read-06](https://mhmadwrekat.github.io/reading-notes/Code 401/class-06)|
-|-------------|[read-07](https://mhmadwrekat.github.io/reading-notes/Code 401/class-07)|
-|-------------|[read-08](https://mhmadwrekat.github.io/reading-notes/Code 401/class-08)|
-|-------------|[read-09](https://mhmadwrekat.github.io/reading-notes/Code 401/class-09)|
-|-------------|[read-10](https://mhmadwrekat.github.io/reading-notes/Code 401/class-10)|
-|-------------|[read-11](https://mhmadwrekat.github.io/reading-notes/Code 401/class-11)|
-|-------------|[read-12](https://mhmadwrekat.github.io/reading-notes/Code 401/class-12)|
-|-------------|[read-13](https://mhmadwrekat.github.io/reading-notes/Code 401/class-13)|
-|-------------|[read-14](https://mhmadwrekat.github.io/reading-notes/Code 401/class-14)|
+|Testing and Modules|[read-02](https://mhmadwrekat.github.io/reading-notes/Code 401/read-02)|
+|-------------|[read-03](https://mhmadwrekat.github.io/reading-notes/Code 401/read-03)|
+|-------------|[read-04](https://mhmadwrekat.github.io/reading-notes/Code 401/read-04)|
+|-------------|[read-05](https://mhmadwrekat.github.io/reading-notes/Code 401/read-05)|
+|-------------|[read-06](https://mhmadwrekat.github.io/reading-notes/Code 401/read-06)|
+|-------------|[read-07](https://mhmadwrekat.github.io/reading-notes/Code 401/read-07)|
+|-------------|[read-08](https://mhmadwrekat.github.io/reading-notes/Code 401/read-08)|
+|-------------|[read-09](https://mhmadwrekat.github.io/reading-notes/Code 401/read-09)|
+|-------------|[read-10](https://mhmadwrekat.github.io/reading-notes/Code 401/read-10)|
+|-------------|[read-11](https://mhmadwrekat.github.io/reading-notes/Code 401/read-11)|
+|-------------|[read-12](https://mhmadwrekat.github.io/reading-notes/Code 401/read-12)|
+|-------------|[read-13](https://mhmadwrekat.github.io/reading-notes/Code 401/read-13)|
+|-------------|[read-14](https://mhmadwrekat.github.io/reading-notes/Code 401/read-14)|
 
 
 ---
