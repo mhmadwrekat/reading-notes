@@ -81,7 +81,7 @@
 |name of subject      |links                     |
 |---------------------|--------------------------|
 |Big O & Python|[read-01](https://mhmadwrekat.github.io/reading-notes/Code 401/read-01)|
-|-------------|[read-02](https://mhmadwrekat.github.io/reading-notes/Code 401/class-02)|
+|Testing and Modules|[read-02](https://mhmadwrekat.github.io/reading-notes/Code 401/class-02)|
 |-------------|[read-03](https://mhmadwrekat.github.io/reading-notes/Code 401/class-03)|
 |-------------|[read-04](https://mhmadwrekat.github.io/reading-notes/Code 401/class-04)|
 |-------------|[read-05](https://mhmadwrekat.github.io/reading-notes/Code 401/class-05)|
