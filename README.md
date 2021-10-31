@@ -23,13 +23,13 @@
 |name of subject      |links                     |
 |---------------------|--------------------------|
 |growth               |[growth](https://mhmadwrekat.github.io/reading-notes/growth)|
-|learning markdown               |[read01](https://mhmadwrekat.github.io/reading-notes/read01)|
-|Structure web pages               |[read02](https://mhmadwrekat.github.io/reading-notes/read02)|
-|design web pages               |[read03](https://mhmadwrekat.github.io/reading-notes/read03)|
-|Dynamic web pages               |[read04](https://mhmadwrekat.github.io/reading-notes/read04)|
-|Operators and Loops       |[read05](https://mhmadwrekat.github.io/reading-notes/read05)|
-|Design web pages with CSS    |[read06](https://mhmadwrekat.github.io/reading-notes/read06)|
-|Programming with JavaScript|[read07](https://mhmadwrekat.github.io/reading-notes/read07)|
+|learning markdown               |[read01](https://mhmadwrekat.github.io/reading-notes/Code 102/read01)|
+|Structure web pages               |[read02](https://mhmadwrekat.github.io/reading-notes/Code 102/read02)|
+|design web pages               |[read03](https://mhmadwrekat.github.io/reading-notes/Code 102/read03)|
+|Dynamic web pages               |[read04](https://mhmadwrekat.github.io/reading-notes/Code 102/read04)|
+|Operators and Loops       |[read05](https://mhmadwrekat.github.io/reading-notes/Code 102/read05)|
+|Design web pages with CSS    |[read06](https://mhmadwrekat.github.io/reading-notes/Code 102/read06)|
+|Programming with JavaScript|[read07](https://mhmadwrekat.github.io/reading-notes/Code 102/read07)|
 
 
 ---
