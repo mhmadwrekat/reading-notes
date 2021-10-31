@@ -22,7 +22,7 @@
 
 |name of subject      |links                     |
 |---------------------|--------------------------|
-|growth               |[growth](https://mhmadwrekat.github.io/reading-notes/growth)|
+|growth               |[growth](https://mhmadwrekat.github.io/reading-notes/Code 102/growth)|
 |learning markdown               |[read01](https://mhmadwrekat.github.io/reading-notes/Code 102/read01)|
 |Structure web pages               |[read02](https://mhmadwrekat.github.io/reading-notes/Code 102/read02)|
 |design web pages               |[read03](https://mhmadwrekat.github.io/reading-notes/Code 102/read03)|
@@ -37,21 +37,21 @@
 
 |name of subject      |links                     |
 |---------------------|--------------------------|
-|introductory HTML & JS|[class01](https://mhmadwrekat.github.io/reading-notes/class01)|
-|Basics of HTML , CSS , JS |[class02](https://mhmadwrekat.github.io/reading-notes/class02)|
-|HTML Lists, Control Flow with JS, and the CSS Box Model|[class03](https://mhmadwrekat.github.io/reading-notes/class03)|
-|HTML Links, JS Functions, and Intro to CSS Layout|[class04](https://mhmadwrekat.github.io/reading-notes/class04)|
-|HTML Images , CSS Color & Text|[class05](https://mhmadwrekat.github.io/reading-notes/class05)|
-|Problem Domain , Objects , and the DOM|[class06](https://mhmadwrekat.github.io/reading-notes/class06)|
-|Object-Oriented Programming, HTML Tables|[class07](https://mhmadwrekat.github.io/reading-notes/class07)|
-|CSS Layout       |[class08](https://mhmadwrekat.github.io/reading-notes/class08)|
-|Forms and JS Events |[class09](https://mhmadwrekat.github.io/reading-notes/class09)|
-|Js error handling & Debugging|[class10](https://mhmadwrekat.github.io/reading-notes/class10)|
-|Audio, Video, Images |[class11](https://mhmadwrekat.github.io/reading-notes/class11)|
-|Docs for the HTML < canvas> Element & Chart.js|[class12](https://mhmadwrekat.github.io/reading-notes/class12)|
-|Local Storage|[class13](https://mhmadwrekat.github.io/reading-notes/class13)|
-|CSS Transforms, Transitions, and Animations|[class14-a](https://mhmadwrekat.github.io/reading-notes/class14-a)|
-|What Google Learned From Its Quest to Build the Perfect Team|[class14-b](https://mhmadwrekat.github.io/reading-notes/class14-b)|
+|introductory HTML & JS|[class01](https://mhmadwrekat.github.io/reading-notes/Code 201/class01)|
+|Basics of HTML , CSS , JS |[class02](https://mhmadwrekat.github.io/reading-notes/Code 201/class02)|
+|HTML Lists, Control Flow with JS, and the CSS Box Model|[class03](https://mhmadwrekat.github.io/reading-notes/Code 201/class03)|
+|HTML Links, JS Functions, and Intro to CSS Layout|[class04](https://mhmadwrekat.github.io/reading-notes/Code 201/class04)|
+|HTML Images , CSS Color & Text|[class05](https://mhmadwrekat.github.io/reading-notes/Code 201/class05)|
+|Problem Domain , Objects , and the DOM|[class06](https://mhmadwrekat.github.io/reading-notes/Code 201/class06)|
+|Object-Oriented Programming, HTML Tables|[class07](https://mhmadwrekat.github.io/reading-notes/Code 201/class07)|
+|CSS Layout       |[class08](https://mhmadwrekat.github.io/reading-notes/Code 201/class08)|
+|Forms and JS Events |[class09](https://mhmadwrekat.github.io/reading-notes/Code 201/class09)|
+|Js error handling & Debugging|[class10](https://mhmadwrekat.github.io/reading-notes/Code 201/class10)|
+|Audio, Video, Images |[class11](https://mhmadwrekat.github.io/reading-notes/Code 201/class11)|
+|Docs for the HTML < canvas> Element & Chart.js|[class12](https://mhmadwrekat.github.io/reading-notes/Code 201/class12)|
+|Local Storage|[class13](https://mhmadwrekat.github.io/reading-notes/Code 201/class13)|
+|CSS Transforms, Transitions, and Animations|[class14-a](https://mhmadwrekat.github.io/reading-notes/Code 201/class14-a)|
+|What Google Learned From Its Quest to Build the Perfect Team|[class14-b](https://mhmadwrekat.github.io/reading-notes/Code 201/class14-b)|
 
 
 ---
@@ -59,20 +59,20 @@
 
 |name of subject      |links                     |
 |---------------------|--------------------------|
-|Introduction to React and Components|[class-01](https://mhmadwrekat.github.io/reading-notes/class-01)|
-|State and Props|[class-02](https://mhmadwrekat.github.io/reading-notes/class-02)|
-|Passing Functions as Props|[class-03](https://mhmadwrekat.github.io/reading-notes/class-03)|
-|React and Forms|[class-04](https://mhmadwrekat.github.io/reading-notes/class-04)|
-|Putting it all together|[class-05](https://mhmadwrekat.github.io/reading-notes/class-05)|
-|NODE.JS|[class-06](https://mhmadwrekat.github.io/reading-notes/class-06)|
-|REST|[class-07](https://mhmadwrekat.github.io/reading-notes/class-07)|
-|APIs|[class-08](https://mhmadwrekat.github.io/reading-notes/class-08)|
-|FUNCTIONAL PROGRAMMING|[class-09](https://mhmadwrekat.github.io/reading-notes/class-09)|
-|In memory storage|[class-10](https://mhmadwrekat.github.io/reading-notes/class-10)|
-|Mongo and Mongoose|[class-11](https://mhmadwrekat.github.io/reading-notes/class-11)|
-|CRUD|[class-12](https://mhmadwrekat.github.io/reading-notes/class-12)|
-|Diversity & Inclusion in the Tech Industry|[class-13](https://mhmadwrekat.github.io/reading-notes/class-13)|
-|Authentication|[class-14](https://mhmadwrekat.github.io/reading-notes/class-14)|
+|Introduction to React and Components|[class-01](https://mhmadwrekat.github.io/reading-notes/Code 301/class-01)|
+|State and Props|[class-02](https://mhmadwrekat.github.io/reading-notes/Code 301/class-02)|
+|Passing Functions as Props|[class-03](https://mhmadwrekat.github.io/reading-notes/Code 301/class-03)|
+|React and Forms|[class-04](https://mhmadwrekat.github.io/reading-notes/Code 301/class-04)|
+|Putting it all together|[class-05](https://mhmadwrekat.github.io/reading-notes/Code 301/class-05)|
+|NODE.JS|[class-06](https://mhmadwrekat.github.io/reading-notes/Code 301/class-06)|
+|REST|[class-07](https://mhmadwrekat.github.io/reading-notes/Code 301/class-07)|
+|APIs|[class-08](https://mhmadwrekat.github.io/reading-notes/Code 301/class-08)|
+|FUNCTIONAL PROGRAMMING|[class-09](https://mhmadwrekat.github.io/reading-notes/Code 301/class-09)|
+|In memory storage|[class-10](https://mhmadwrekat.github.io/reading-notes/Code 301/class-10)|
+|Mongo and Mongoose|[class-11](https://mhmadwrekat.github.io/reading-notes/Code 301/class-11)|
+|CRUD|[class-12](https://mhmadwrekat.github.io/reading-notes/Code 301/class-12)|
+|Diversity & Inclusion in the Tech Industry|[class-13](https://mhmadwrekat.github.io/reading-notes/Code 301/class-13)|
+|Authentication|[class-14](https://mhmadwrekat.github.io/reading-notes/Code 301/class-14)|
 
 
 ---
@@ -80,20 +80,20 @@
 
 |name of subject      |links                     |
 |---------------------|--------------------------|
-|Big O & Python|[read-01](https://mhmadwrekat.github.io/reading-notes/read-01)|
-|-------------|[read-02](https://mhmadwrekat.github.io/reading-notes/class-02)|
-|-------------|[read-03](https://mhmadwrekat.github.io/reading-notes/class-03)|
-|-------------|[read-04](https://mhmadwrekat.github.io/reading-notes/class-04)|
-|-------------|[read-05](https://mhmadwrekat.github.io/reading-notes/class-05)|
-|-------------|[read-06](https://mhmadwrekat.github.io/reading-notes/class-06)|
-|-------------|[read-07](https://mhmadwrekat.github.io/reading-notes/class-07)|
-|-------------|[read-08](https://mhmadwrekat.github.io/reading-notes/class-08)|
-|-------------|[read-09](https://mhmadwrekat.github.io/reading-notes/class-09)|
-|-------------|[read-10](https://mhmadwrekat.github.io/reading-notes/class-10)|
-|-------------|[read-11](https://mhmadwrekat.github.io/reading-notes/class-11)|
-|-------------|[read-12](https://mhmadwrekat.github.io/reading-notes/class-12)|
-|-------------|[read-13](https://mhmadwrekat.github.io/reading-notes/class-13)|
-|-------------|[read-14](https://mhmadwrekat.github.io/reading-notes/class-14)|
+|Big O & Python|[read-01](https://mhmadwrekat.github.io/reading-notes/Code 401/read-01)|
+|-------------|[read-02](https://mhmadwrekat.github.io/reading-notes/Code 401/class-02)|
+|-------------|[read-03](https://mhmadwrekat.github.io/reading-notes/Code 401/class-03)|
+|-------------|[read-04](https://mhmadwrekat.github.io/reading-notes/Code 401/class-04)|
+|-------------|[read-05](https://mhmadwrekat.github.io/reading-notes/Code 401/class-05)|
+|-------------|[read-06](https://mhmadwrekat.github.io/reading-notes/Code 401/class-06)|
+|-------------|[read-07](https://mhmadwrekat.github.io/reading-notes/Code 401/class-07)|
+|-------------|[read-08](https://mhmadwrekat.github.io/reading-notes/Code 401/class-08)|
+|-------------|[read-09](https://mhmadwrekat.github.io/reading-notes/Code 401/class-09)|
+|-------------|[read-10](https://mhmadwrekat.github.io/reading-notes/Code 401/class-10)|
+|-------------|[read-11](https://mhmadwrekat.github.io/reading-notes/Code 401/class-11)|
+|-------------|[read-12](https://mhmadwrekat.github.io/reading-notes/Code 401/class-12)|
+|-------------|[read-13](https://mhmadwrekat.github.io/reading-notes/Code 401/class-13)|
+|-------------|[read-14](https://mhmadwrekat.github.io/reading-notes/Code 401/class-14)|
 
 
 ---
