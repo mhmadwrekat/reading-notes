@@ -10,6 +10,13 @@
 |Things I want to know more about|In The Last|
 
 ---
+## pain in growth
+
+#### As *Benjamin Franklin* said ***"No pain No gain"***
+
+growth doesnt come easy ! it comes with pain both mentally and pphysically but to hold on we need to find the common thread that makes the pain worthwhile, that puts the pain into perspective. You’re here because you chose to invest in a different life. A better life .
+
+---
 ## Beginners Guide to Big O
 
 The best way to understand Big O thoroughly was to produce some examples in code. So, below are some common orders of growth along with descriptions and examples where possible.
