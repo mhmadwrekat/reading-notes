@@ -58,7 +58,7 @@ type the variable keyword like *var , let , const* and variable name .
 Loops are used in JavaScript to perform repeated tasks based on a condition. Conditions typically return true or false when analysed. A loop will continue running until the defined condition returns false.
 
 ---
-##### [Back](https://mhmadwrekat.github.io/reading-notes/class02)
+##### [Back](https://mhmadwrekat.github.io/reading-notes/Code 201/class02)
 
 ---
 ##### [Back To Home Page](https://mhmadwrekat.github.io/reading-notes)

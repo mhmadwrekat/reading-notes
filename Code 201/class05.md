@@ -58,7 +58,7 @@ You can specify any color in CSS in one of three ways :
 ![html image](https://d2h0cx97tjks2p.cloudfront.net/blogs/wp-content/uploads/sites/2/2020/07/html-images-df.jpg)
 
 ---
-### [Take Quiz](https://mhmadwrekat.github.io/reading-notes/quizclass05)
+### [Take Quiz](https://mhmadwrekat.github.io/reading-notes/Code 201/quizclass05)
 
 ---
 ##### [Back To Home Page](https://mhmadwrekat.github.io/reading-notes)

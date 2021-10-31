@@ -104,7 +104,7 @@ elRooms .textContent = hotel .checkAvailability(};
 
 ---
 
-##### [Back](https://mhmadwrekat.github.io/reading-notes/class07)
+##### [Back](https://mhmadwrekat.github.io/reading-notes/Code 201/class07)
 
 ---
 ##### [Back To Home Page](https://mhmadwrekat.github.io/reading-notes)

@@ -104,7 +104,7 @@ elRooms .textContent = hotel .checkAvailability(};
 ![JS Objects](https://www.tutsmake.com/wp-content/uploads/2020/05/JavaScript-Objects.jpeg)
 
 ---
-### [Take Quiz](https://mhmadwrekat.github.io/reading-notes/quizclass07)
+### [Take Quiz](https://mhmadwrekat.github.io/reading-notes/Code 201/quizclass07)
 
 ---
 ##### [Back To Home Page](https://mhmadwrekat.github.io/reading-notes)

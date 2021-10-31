@@ -60,7 +60,7 @@ Accessing and updating the DOM tree involves two steps ?
 
 ---
 
-##### [Back](https://mhmadwrekat.github.io/reading-notes/class06)
+##### [Back](https://mhmadwrekat.github.io/reading-notes/Code 201/class06)
 
 ---
 ##### [Back To Home Page](https://mhmadwrekat.github.io/reading-notes)

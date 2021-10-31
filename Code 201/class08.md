@@ -31,7 +31,7 @@ It is common to group a number of elements together inside a **< div>** (or othe
 ![css layout](https://media.onlinecoursebay.com/2019/03/29034822/1451980_0003-750x405.jpg)
 
 ---
-### [Take Quiz](https://mhmadwrekat.github.io/reading-notes/quizclass08)
+### [Take Quiz](https://mhmadwrekat.github.io/reading-notes/Code 201/quizclass08)
 
 ---
 ##### [Back To Home Page](https://mhmadwrekat.github.io/reading-notes)

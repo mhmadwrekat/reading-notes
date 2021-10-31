@@ -60,7 +60,7 @@ what is loops ?
 Loops are used in JavaScript to perform repeated tasks based on a condition. Conditions typically return true or false when analysed. A loop will continue running until the defined condition returns false.
 
 ---
-### [Take Quiz](https://mhmadwrekat.github.io/reading-notes/quizclass02)
+### [Take Quiz](https://mhmadwrekat.github.io/reading-notes/Code 201/quizclass02)
 
 ---
 ##### [Back To Home Page](https://mhmadwrekat.github.io/reading-notes)

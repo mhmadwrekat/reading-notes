@@ -100,7 +100,7 @@ Traditionally , the term **form** has referred to a printed document that contai
 ![JS Events](https://cdn.educba.com/academy/wp-content/uploads/2020/07/JavaScript-Custom-Events.jpg)
 
 ---
-### [Take Quiz](https://mhmadwrekat.github.io/reading-notes/quizclass09)
+### [Take Quiz](https://mhmadwrekat.github.io/reading-notes/Code 201/quizclass09)
 
 ---
 ##### [Back To Home Page](https://mhmadwrekat.github.io/reading-notes)

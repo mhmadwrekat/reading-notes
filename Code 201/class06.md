@@ -61,7 +61,7 @@ Accessing and updating the DOM tree involves two steps :
 2. Use its text content , child elements , and attributes
 
 ---
-### [Take Quiz](https://mhmadwrekat.github.io/reading-notes/quizclass06)
+### [Take Quiz](https://mhmadwrekat.github.io/reading-notes/Code 201/quizclass06)
 
 ---
 ##### [Back To Home Page](https://mhmadwrekat.github.io/reading-notes)

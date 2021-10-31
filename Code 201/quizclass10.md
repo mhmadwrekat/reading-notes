@@ -47,7 +47,7 @@ how to look at errors in chrome ?
 > The console will show you when there is an error in your JavaScript , It also displays the line where it became a problem for the interpreter .
 
 ---
-#### [Back](https://mhmadwrekat.github.io/reading-notes/class10)
+#### [Back](https://mhmadwrekat.github.io/reading-notes/Code 201/class10)
 
 ---
 #### [Back To Home Page](https://mhmadwrekat.github.io/reading-notes)

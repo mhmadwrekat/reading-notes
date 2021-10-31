@@ -60,7 +60,7 @@ how does pair programming work ?
 ![pair programming](https://miro.medium.com/max/1140/1*v4q4iD3dQHgferJNNjmvag.jpeg)
 
 ---
-### [Take Quiz](https://mhmadwrekat.github.io/reading-notes/quizclass04)
+### [Take Quiz](https://mhmadwrekat.github.io/reading-notes/Code 201/quizclass04)
 
 ---
 ##### [Back To Home Page](https://mhmadwrekat.github.io/reading-notes)

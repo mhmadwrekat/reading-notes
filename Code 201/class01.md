@@ -80,7 +80,7 @@ show how those pages can be
 grouped .
 
 ---
-### [Take Quiz](https://mhmadwrekat.github.io/reading-notes/quizclass01)
+### [Take Quiz](https://mhmadwrekat.github.io/reading-notes/Code 201/quizclass01)
 
 ---
 ###### [Back To Home Page](https://mhmadwrekat.github.io/reading-notes)

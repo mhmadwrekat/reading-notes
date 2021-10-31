@@ -42,7 +42,7 @@
 ![error chrome](https://wordpress.org/support/files/2020/07/chrome-devtools.png)
 
 ---
-### [Take Quiz](https://mhmadwrekat.github.io/reading-notes/quizclass10)
+### [Take Quiz](https://mhmadwrekat.github.io/reading-notes/Code 201/quizclass10)
 
 ---
 ##### [Back To Home Page](https://mhmadwrekat.github.io/reading-notes)

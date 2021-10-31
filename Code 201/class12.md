@@ -72,7 +72,7 @@
 **[More Details.....](https://developer.mozilla.org/en-US/docs/Web/API/Canvas_API/Tutorial/Drawing_text)**
 
 ---
-### [Take Quiz](https://mhmadwrekat.github.io/reading-notes/quizclass12)
+### [Take Quiz](https://mhmadwrekat.github.io/reading-notes/Code 201/quizclass12)
 
 ---
 ##### [Back To Home Page](https://mhmadwrekat.github.io/reading-notes)

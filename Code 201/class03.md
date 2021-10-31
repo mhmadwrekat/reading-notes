@@ -58,7 +58,7 @@ Loops are used in JavaScript to perform repeated tasks based on a condition. Con
 
 ![JS switch](https://www.freecodecamp.org/news/content/images/2019/06/0_f2yYmYJFuG3pH07G.jpg)
 ---
-### [Take Quiz](https://mhmadwrekat.github.io/reading-notes/quizclass03)
+### [Take Quiz](https://mhmadwrekat.github.io/reading-notes/Code 201/quizclass03)
 
 ---
 ##### [Back To Home Page](https://mhmadwrekat.github.io/reading-notes)

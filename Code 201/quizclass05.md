@@ -62,7 +62,7 @@ how we can add image in HTML ?
 - by using **< a>** tag and **src** and **alt** and if we want add **title** to provide additional information about the image .
 
 ---
-##### [Back](https://mhmadwrekat.github.io/reading-notes/class05)
+##### [Back](https://mhmadwrekat.github.io/reading-notes/Code 201/class05)
 
 ---
 ##### [Back To Home Page](https://mhmadwrekat.github.io/reading-notes)

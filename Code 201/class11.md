@@ -59,7 +59,7 @@ Controlling the size and alignment of your images using CSS keeps rules that aff
 ![HTML Audio & Video](https://www.w3docs.com/uploads/media/book_gallery/0001/04/6b0e1d1db1f19988b8b59c5f0cf69d1d21f355ae.png)
 
 ---
-### [Take Quiz](https://mhmadwrekat.github.io/reading-notes/quizclass11)
+### [Take Quiz](https://mhmadwrekat.github.io/reading-notes/Code 201/quizclass11)
 
 ---
 ##### [Back To Home Page](https://mhmadwrekat.github.io/reading-notes)
