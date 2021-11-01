@@ -82,7 +82,7 @@
 |---------------------|--------------------------|
 |Big O & Python|[read-01](https://mhmadwrekat.github.io/reading-notes/Code 401/read-01)|
 |Testing and Modules|[read-02](https://mhmadwrekat.github.io/reading-notes/Code 401/read-02)|
-|-------------|[read-03](https://mhmadwrekat.github.io/reading-notes/Code 401/read-03)|
+|FileIO & Exceptions|[read-03](https://mhmadwrekat.github.io/reading-notes/Code 401/read-03)|
 |-------------|[read-04](https://mhmadwrekat.github.io/reading-notes/Code 401/read-04)|
 |-------------|[read-05](https://mhmadwrekat.github.io/reading-notes/Code 401/read-05)|
 |-------------|[read-06](https://mhmadwrekat.github.io/reading-notes/Code 401/read-06)|
