@@ -102,9 +102,12 @@ One characteristic of linked lists is that they are linear data structures, whic
 * Average Case: The efficiency for a “typical” or “random” input of size n.
     The average case makes a typical assumption about the possible inputs of size ‘n’ and how they might affect efficiency. This is NOT the best case and worst case averaged together.
 
+
 2. Big Omega: The best case analysis of algorithm efficiency .
 
+
 3. Running Time: The amount of time required for an algorithm to complete.
+
 
 4. Linked Lists : A Linked List is a sequence of Nodes that are connected/linked to each other. The most defining feature of a Linked List is that each Node references the next Node in the link , There are two types of Linked List - **Singly** and **Doubly**. We will be implementing a Singly Linked List in this implementation.
 
@@ -116,5 +119,3 @@ One characteristic of linked lists is that they are linear data structures, whic
 <p align="center">
 © Mohammad alwrekat
 </p>
-
-
