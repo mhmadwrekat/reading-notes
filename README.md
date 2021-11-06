@@ -84,8 +84,8 @@
 |Testing and Modules|[read-02](https://mhmadwrekat.github.io/reading-notes/Code 401/read-02)|
 |FileIO & Exceptions|[read-03](https://mhmadwrekat.github.io/reading-notes/Code 401/read-03)|
 |Classes, Objects, Thinking Recursively, Pytest|[read-04](https://mhmadwrekat.github.io/reading-notes/Code 401/read-04)|
-|-------------|[read-05](https://mhmadwrekat.github.io/reading-notes/Code 401/read-05)|
-|-------------|[read-06](https://mhmadwrekat.github.io/reading-notes/Code 401/read-06)|
+|Linked Lists|[read-05](https://mhmadwrekat.github.io/reading-notes/Code 401/read-05)|
+|Game of Greed **1**|[read-06](https://mhmadwrekat.github.io/reading-notes/Code 401/read-06)|
 |-------------|[read-07](https://mhmadwrekat.github.io/reading-notes/Code 401/read-07)|
 |-------------|[read-08](https://mhmadwrekat.github.io/reading-notes/Code 401/read-08)|
 |-------------|[read-09](https://mhmadwrekat.github.io/reading-notes/Code 401/read-09)|
