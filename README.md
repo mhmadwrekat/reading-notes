@@ -86,8 +86,8 @@
 |Classes, Objects, Thinking Recursively, Pytest|[read-04](https://mhmadwrekat.github.io/reading-notes/Code 401/read-04)|
 |Linked Lists|[read-05](https://mhmadwrekat.github.io/reading-notes/Code 401/read-05)|
 |Game of Greed **1**|[read-06](https://mhmadwrekat.github.io/reading-notes/Code 401/read-06)|
-|-------------|[read-07](https://mhmadwrekat.github.io/reading-notes/Code 401/read-07)|
-|-------------|[read-08](https://mhmadwrekat.github.io/reading-notes/Code 401/read-08)|
+|Game of Greed **2**|[read-07](https://mhmadwrekat.github.io/reading-notes/Code 401/read-07)|
+|Game of Greed **3**|[read-08](https://mhmadwrekat.github.io/reading-notes/Code 401/read-08)|
 |-------------|[read-09](https://mhmadwrekat.github.io/reading-notes/Code 401/read-09)|
 |-------------|[read-10](https://mhmadwrekat.github.io/reading-notes/Code 401/read-10)|
 |-------------|[read-11](https://mhmadwrekat.github.io/reading-notes/Code 401/read-11)|
