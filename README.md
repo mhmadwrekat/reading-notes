@@ -89,7 +89,7 @@
 |Game of Greed **2**|[read-07](https://mhmadwrekat.github.io/reading-notes/Code 401/read-07)|
 |Game of Greed **3**|[read-08](https://mhmadwrekat.github.io/reading-notes/Code 401/read-08)|
 |Game of Greed **4**|[read-09](https://mhmadwrekat.github.io/reading-notes/Code 401/read-09)|
-|-------------|[read-10](https://mhmadwrekat.github.io/reading-notes/Code 401/read-10)|
+|Stacks and Queues|[read-10](https://mhmadwrekat.github.io/reading-notes/Code 401/read-10)|
 |-------------|[read-11](https://mhmadwrekat.github.io/reading-notes/Code 401/read-11)|
 |-------------|[read-12](https://mhmadwrekat.github.io/reading-notes/Code 401/read-12)|
 |-------------|[read-13](https://mhmadwrekat.github.io/reading-notes/Code 401/read-13)|
