@@ -91,7 +91,7 @@
 |Game of Greed **4**|[read-09](https://mhmadwrekat.github.io/reading-notes/Code 401/read-09)|
 |Stacks and Queues|[read-10](https://mhmadwrekat.github.io/reading-notes/Code 401/read-10)|
 |Data Analysis|[read-11](https://mhmadwrekat.github.io/reading-notes/Code 401/read-11)|
-|-------------|[read-12](https://mhmadwrekat.github.io/reading-notes/Code 401/read-12)|
+|Pandas|[read-12](https://mhmadwrekat.github.io/reading-notes/Code 401/read-12)|
 |-------------|[read-13](https://mhmadwrekat.github.io/reading-notes/Code 401/read-13)|
 |-------------|[read-14](https://mhmadwrekat.github.io/reading-notes/Code 401/read-14)|
 
