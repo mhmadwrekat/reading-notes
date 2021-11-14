@@ -5,8 +5,29 @@ Python is open source. It’s great, but has the inherent problem of open source
 ---
 Pandas is a game-changer for data science and analytics, particularly if you came to Python because you were searching for something more powerful than Excel and VBA. Pandas uses fast, flexible, and expressive data structures designed to make working with relational or labeled data both easy and intuitive.
 
+## operations we can do with pandas :
+- Object creation
+- Viewing data
+- Selection
+- Getting (Selecting a single column, which yields a Series)
+- Boolean indexing (Using a single column’s values to select data)
+- Setting (Setting a new column automatically aligns the data by the indexes)
+- join
+- group
+- reshape
 
 To load the pandas package and start working with it, import the package. The community agreed alias for pandas is pd, so loading pandas as pd is assumed standard practice for all of the pandas documentation .
+
+## Three main data structures in pandas :
+1. Series — 1D
+2. DataFrame — 2D
+3. Panel — 3D
+
+---
+## panda vs numpy
+difference between pandas and NumPy: 
+- NumPy arrays have one dtype for the entire array . 
+- pandas DataFrames have one dtype per column.
 
 
 A DataFrame is a 2-dimensional data structure that can store data of different types (including characters, integers, floating point values, categorical data and more) in columns. It is similar to a spreadsheet, a SQL table or the data.frame in R .
@@ -17,6 +38,7 @@ A DataFrame is a 2-dimensional data structure that can store data of different t
 
 tqdm, the one and only
 When working with large datasets, pandas can take some time running .**map()**, .**apply()**, .**applymap()** operations. tqdm is a very useful package that helps predict when theses operations will finish executing .
+
 
 ![Pandas](https://files.realpython.com/media/Intro-to-Exploratory-Data-Analysis-With-Pandas_Watermarked.81a7d7df468f.jpg)
 
