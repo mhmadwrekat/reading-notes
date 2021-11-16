@@ -51,8 +51,6 @@ To run the example, you can download each of the examples and run it using:
 
     $ python exercice_1.py
 
-You can get source for each step by clicking on the corresponding figure.
-
 
 ---
 #### [Back To Home Page](https://mhmadwrekat.github.io/reading-notes)
