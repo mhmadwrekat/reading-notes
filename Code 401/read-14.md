@@ -32,12 +32,26 @@ Documentation
 ## Figures, Subplots, Axes and Ticks
 implicit figure and axes creation. This is handy for fast plots. We can have more control over the display using figure, subplot, and axes explicitly. A figure in matplotlib means the whole window in the user interface. Within this figure there can be subplots. While subplot positions the plots in a regular grid, axes allows free placement within the figure. Both can be useful depending on your intention. We've already worked with figures and subplots without explicitly calling them. When we call plot, matplotlib calls gca() to get the current axes and gca in turn calls gcf() to get the current figure. If there is none it calls figure() to make one, strictly speaking, to make a subplot(111). 
 
+![Data Visualization](https://www.dataflareup.com/wp-content/uploads/2021/10/data-visualization-trends.jpg)
 
+---
+***Simple plot***
+In this section, we want to draw the cosine and sine functions on the same plot. Starting from the default settings, we'll enrich the figure step by step to make it nicer.
 
+The first step is to get the data for the sine and cosine functions:
 
+    import numpy as np
 
-![Data Visualization]()
+    X = np.linspace(-np.pi, np.pi, 256, endpoint=True)
+    C, S = np.cos(X), np.sin(X)
 
+X is now a NumPy array with 256 values ranging from -π to +π (included). C is the cosine (256 values) and S is the sine (256 values).
+
+To run the example, you can download each of the examples and run it using:
+
+    $ python exercice_1.py
+
+You can get source for each step by clicking on the corresponding figure.
 
 ---
 #### [Back To Home Page](https://mhmadwrekat.github.io/reading-notes)
