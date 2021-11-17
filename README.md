@@ -94,6 +94,7 @@
 |Pandas|[read-12](https://mhmadwrekat.github.io/reading-notes/Code 401/read-12)|
 |Linear Regressions|[read-13](https://mhmadwrekat.github.io/reading-notes/Code 401/read-13)|
 |Data Visualization|[read-14](https://mhmadwrekat.github.io/reading-notes/Code 401/read-14)|
+|Trees|[read-15](https://mhmadwrekat.github.io/reading-notes/Code 401/read-15)|
 
 
 ---
