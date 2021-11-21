@@ -96,6 +96,7 @@
 |Data Visualization|[read-14](https://mhmadwrekat.github.io/reading-notes/Code 401/read-14)|
 |Trees|[read-15](https://mhmadwrekat.github.io/reading-notes/Code 401/read-15)|
 |Machine Learning Intro|[read-16](https://mhmadwrekat.github.io/reading-notes/Code 401/read-16)|
+|Web Scraping|[read-17](https://mhmadwrekat.github.io/reading-notes/Code 401/read-17)|
 
 
 ---
