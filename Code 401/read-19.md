@@ -1,6 +1,6 @@
 # Intro to Django
 
-## Creating a project
+***Creating a project***
 
 If this is your first time using Django, you’ll have to take care of some initial setup. Namely,
 you’ll need to auto-generate some code that establishes a Django project – a collection of settings for an instance of Django, 
