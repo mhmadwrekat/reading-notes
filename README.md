@@ -98,6 +98,7 @@
 |Machine Learning Intro|[read-16](https://mhmadwrekat.github.io/reading-notes/Code 401/read-16)|
 |Web Scraping|[read-17](https://mhmadwrekat.github.io/reading-notes/Code 401/read-17)|
 |Automation|[read-18](https://mhmadwrekat.github.io/reading-notes/Code 401/read-18)|
+|Intro to Django|[read-19](https://mhmadwrekat.github.io/reading-notes/Code 401/read-19)|
 
 
 ---
