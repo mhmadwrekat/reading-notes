@@ -99,6 +99,7 @@
 |Web Scraping|[read-17](https://mhmadwrekat.github.io/reading-notes/Code 401/read-17)|
 |Automation|[read-18](https://mhmadwrekat.github.io/reading-notes/Code 401/read-18)|
 |Intro to Django|[read-19](https://mhmadwrekat.github.io/reading-notes/Code 401/read-19)|
+|Django Models|[read-20](https://mhmadwrekat.github.io/reading-notes/Code 401/read-20)|
 
 
 ---
