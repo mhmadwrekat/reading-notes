@@ -100,7 +100,7 @@
 |Automation|[read-18](https://mhmadwrekat.github.io/reading-notes/Code 401/read-18)|
 |Intro to Django|[read-19](https://mhmadwrekat.github.io/reading-notes/Code 401/read-19)|
 |Django Models|[read-20](https://mhmadwrekat.github.io/reading-notes/Code 401/read-20)|
-
+|Django CRUD and Forms|[read-20](https://mhmadwrekat.github.io/reading-notes/Code 401/read-21)|
 
 ---
 <b>
