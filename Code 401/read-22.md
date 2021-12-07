@@ -138,8 +138,9 @@ DjangoX can be installed via Pip, Pipenv, or Docker depending upon your setup. T
 - ***[Abstract User, User Profile and Signals in Django .](https://www.youtube.com/watch?v=EudKs1HPUfE)***
 
 - ***[Substituting a custom User model .](https://docs.djangoproject.com/en/3.0/topics/auth/customizing/#auth-custom-user)***
+
 ---
-#### [Back To Home Page](https://mhmadwrekat.github.io/reading-notes)
+#### **[Back To Home Page](https://mhmadwrekat.github.io/reading-notes)**
 
 ---
 <b>
