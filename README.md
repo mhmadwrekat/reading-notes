@@ -102,6 +102,8 @@
 |Django Models|[read-20](https://mhmadwrekat.github.io/reading-notes/Code 401/read-20)|
 |Django CRUD and Forms|[read-21](https://mhmadwrekat.github.io/reading-notes/Code 401/read-21)|
 |Django Custom User|[read-22](https://mhmadwrekat.github.io/reading-notes/Code 401/read-22)|
+|Hash Tables|[read-23](https://mhmadwrekat.github.io/reading-notes/Code 401/read-23)|
+
 
 ---
 <b>
