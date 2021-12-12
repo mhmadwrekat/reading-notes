@@ -103,8 +103,12 @@
 |Django CRUD and Forms|[read-21](https://mhmadwrekat.github.io/reading-notes/Code 401/read-21)|
 |Django Custom User|[read-22](https://mhmadwrekat.github.io/reading-notes/Code 401/read-22)|
 |Hash Tables|[read-23](https://mhmadwrekat.github.io/reading-notes/Code 401/read-23)|
-|Django REST Framework & Docker|[read-24](https://mhmadwrekat.github.io/reading-notes/Code 401/read-24)|
+|Django REST Framework & Dock|[read-24](https://mhmadwrekat.github.io/reading-notes/Code 401/read-24)|
+|Permissions & Postgresql|[read-25](https://mhmadwrekat.github.io/reading-notes/Code 401/read-25)|
 
+
+
+Permissions & Postgresql
 ---
 <b>
 <p align="center">
