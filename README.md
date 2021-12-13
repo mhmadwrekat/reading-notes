@@ -105,10 +105,9 @@
 |Hash Tables|[read-23](https://mhmadwrekat.github.io/reading-notes/Code 401/read-23)|
 |Django REST Framework & Dock|[read-24](https://mhmadwrekat.github.io/reading-notes/Code 401/read-24)|
 |Permissions & Postgresql|[read-25](https://mhmadwrekat.github.io/reading-notes/Code 401/read-25)|
+|Authentication & Production Server|[read-26](https://mhmadwrekat.github.io/reading-notes/Code 401/read-26)|
 
 
-
-Permissions & Postgresql
 ---
 <b>
 <p align="center">
