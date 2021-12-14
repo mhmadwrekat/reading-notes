@@ -106,6 +106,7 @@
 |Django REST Framework & Dock|[read-24](https://mhmadwrekat.github.io/reading-notes/Code 401/read-24)|
 |Permissions & Postgresql|[read-25](https://mhmadwrekat.github.io/reading-notes/Code 401/read-25)|
 |Authentication & Production Server|[read-26](https://mhmadwrekat.github.io/reading-notes/Code 401/read-26)|
+|API Deployment|[read-27](https://mhmadwrekat.github.io/reading-notes/Code 401/read-27)|
 
 
 ---
