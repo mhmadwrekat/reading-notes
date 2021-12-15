@@ -107,6 +107,7 @@
 |Permissions & Postgresql|[read-25](https://mhmadwrekat.github.io/reading-notes/Code 401/read-25)|
 |Authentication & Production Server|[read-26](https://mhmadwrekat.github.io/reading-notes/Code 401/read-26)|
 |API Deployment|[read-27](https://mhmadwrekat.github.io/reading-notes/Code 401/read-27)|
+|Graphs|[read-28](https://mhmadwrekat.github.io/reading-notes/Code 401/read-28)|
 
 
 ---
