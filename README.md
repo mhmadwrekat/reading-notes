@@ -110,6 +110,7 @@
 |Graphs|[read-28](https://mhmadwrekat.github.io/reading-notes/Code 401/read-28)|
 |DSA Review|[read-29](https://mhmadwrekat.github.io/reading-notes/Code 401/read-29)|
 |React 1|[read-30](https://mhmadwrekat.github.io/reading-notes/Code 401/read-30)|
+|React 2|[read-31](https://mhmadwrekat.github.io/reading-notes/Code 401/read-31)|
 
 
 
@@ -118,7 +119,7 @@
 
 
 
-|DSA Review|[read-31](https://mhmadwrekat.github.io/reading-notes/Code 401/read-31)|
+
 |DSA Review|[read-32](https://mhmadwrekat.github.io/reading-notes/Code 401/read-32)|
 |DSA Review|[read-33](https://mhmadwrekat.github.io/reading-notes/Code 401/read-33)|
 |DSA Review|[read-34](https://mhmadwrekat.github.io/reading-notes/Code 401/read-34)|
