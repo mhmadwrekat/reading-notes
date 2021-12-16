@@ -111,6 +111,7 @@
 |DSA Review|[read-29](https://mhmadwrekat.github.io/reading-notes/Code 401/read-29)|
 |React 1|[read-30](https://mhmadwrekat.github.io/reading-notes/Code 401/read-30)|
 |React 2|[read-31](https://mhmadwrekat.github.io/reading-notes/Code 401/read-31)|
+|React 3|[read-32](https://mhmadwrekat.github.io/reading-notes/Code 401/read-32)|
 
 
 
