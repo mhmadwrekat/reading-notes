@@ -112,6 +112,12 @@
 |React 1|[read-30](https://mhmadwrekat.github.io/reading-notes/Code 401/read-30)|
 |React 2|[read-31](https://mhmadwrekat.github.io/reading-notes/Code 401/read-31)|
 |React 3|[read-32](https://mhmadwrekat.github.io/reading-notes/Code 401/read-32)|
+|React 4|[read-33](https://mhmadwrekat.github.io/reading-notes/Code 401/read-33)|
+|Pythonisms|[read-34](https://mhmadwrekat.github.io/reading-notes/Code 401/read-34)|
+|Open-Source Software Contribution|[read-35](https://mhmadwrekat.github.io/reading-notes/Code 401/read-35)|
+
+
+
 
 ---
 <b>
